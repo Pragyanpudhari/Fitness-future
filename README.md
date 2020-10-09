@@ -1,2 +1,2 @@
 # Fitness-future
-This i a fitness website with covid- 19 tracker
+This is a fitness website with covid- 19 tracker

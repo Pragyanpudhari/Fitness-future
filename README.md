@@ -1,2 +1,6 @@
-# Fitness-future
-This is a fitness website with covid- 19 tracker
+<DOCTYPE html><html><head>
+  
+  
+  </head>
+  <body>
+  <script src="/fit/index.html"></script>
